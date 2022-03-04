@@ -20,8 +20,9 @@
 ### App Walkthough GIF
 
 
+![F2](https://user-images.githubusercontent.com/80597347/156729650-99c33150-cc4c-499b-9a28-185b180e251d.gif)
 
-https://user-images.githubusercontent.com/80597347/156728501-3d0fed87-ab26-422e-b935-3a4c344bdb67.mp4
+
 
 
 
